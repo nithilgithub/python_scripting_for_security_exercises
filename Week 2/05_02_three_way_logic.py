@@ -19,4 +19,3 @@ c = False
 # what is happening here?
 
 # now try to use some ()'s to force python to evaluate it differently.
-#testdelete
